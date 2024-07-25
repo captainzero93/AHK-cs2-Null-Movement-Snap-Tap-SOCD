@@ -1,7 +1,7 @@
 # Null Movement Script for AutoHotkey v2
 First code credit to Qiasfah on Github
 
-/*
+
 Changelog:
 v2.1.0 (2024-07-25)
 - Implemented proper SOCD (Simultaneous Opposite Cardinal Direction) handling
