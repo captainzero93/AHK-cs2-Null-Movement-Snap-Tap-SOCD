@@ -1,6 +1,6 @@
 # Null Movement Script for AutoHotkey v2 ( CS2 )
 First code credit to Qiasfah on Github
-- An attempt to recreate some of the features built into the newer keyboards, no idea about how to try and do hardware level actuation and the rapid fire, I wouldnt even like to try to run a rapid fire script in any sort of VAC server just incase however if its a keyboard it's allowed... anyway;
+- An attempt to recreate some of the features built into the newer keyboards, no idea about how to try and do hardware level actuation and the rapid fire, I wouldnt even like to try to run a rapid fire script in any sort of VAC server just incase however if its a keyboard it's allowed... anyway; I did also write a script that would stop stepping forward instantly when left click was done but honestly that's just striaght up a cheat and not what I wanted.
 
 Changelog:
 v2.2.0 (2024-07-25)
