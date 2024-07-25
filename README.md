@@ -1,4 +1,4 @@
-# Null Movement Script for AutoHotkey v2
+# Null Movement Script for AutoHotkey v2 ( CS2 )
 First code credit to Qiasfah on Github
 
 
