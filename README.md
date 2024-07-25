@@ -3,7 +3,7 @@ First code credit to Qiasfah on Github
 
 Changelog:
 v2.2.0 (2024-07-25)
-- Updated vertical SOCD handling for Counter-Strike: Up+Down now cancels movement
+- Updated vertical SOCD handling for Counter-Strike: 
 - Added game-specific SOCD handling option
 - Improved comments and documentation
 
