@@ -1,13 +1,17 @@
-; Snap Tap Mode AutoHotkey Script with SOCD Handling
-; Version: 2.1.0
+; Counter-Strike Optimized Snap Tap Mode AutoHotkey Script with SOCD Handling
+; Version: 2.2.0
 ; Last Updated: 2024-07-25
 
 /*
 Changelog:
+v2.2.0 (2024-07-25)
+- Updated vertical SOCD handling for Counter-Strike: Up+Down now cancels movement
+- Added game-specific SOCD handling option
+- Improved comments and documentation
+
 v2.1.0 (2024-07-25)
 - Implemented proper SOCD (Simultaneous Opposite Cardinal Direction) handling
 - Added configurable SOCD cleaning method for Left+Right inputs
-- Up+Down now always results in Up (fighting game standard)
 
 v2.0.0 (2024-07-25)
 - Completely refactored the script for AutoHotkey v2.0
@@ -44,6 +48,10 @@ global lastPressed := Map("horizontal", "", "vertical", "")
 ; SOCD cleaning method for Left+Right
 ; Set to "Neutral" for Left+Right = Neutral, or "Last Win" for Last Input Priority
 global horizontalSOCDMethod := "Last Win"
+
+; Game-specific SOCD handling
+; Set to true for Counter-Strike behavior (Up+Down = No movement)
+global csgoStyle := true
 
 ; Function to handle key presses
 handleKeyPress(key, direction) {
@@ -92,7 +100,11 @@ handleHorizontalSOCD() {
 ; Function to handle vertical SOCD (Up + Down)
 handleVerticalSOCD() {
     if (keys["w"] && keys["s"]) {
-        Send "{Blind}{s up}{w down}" ; Up always wins
+        if (csgoStyle) {
+            Send "{Blind}{w up}{s up}" ; Cancel movement for Counter-Strike style
+        } else {
+            Send "{Blind}{s up}{w down}" ; Up wins for traditional fighting game style
+        }
     } else if (keys["w"]) {
         Send "{Blind}{s up}{w down}"
     } else if (keys["s"]) {
