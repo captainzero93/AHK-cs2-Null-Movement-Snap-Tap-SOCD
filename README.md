@@ -9,8 +9,7 @@ v2.1.0 (2024-07-25)
 - Up+Down now always results in Up (fighting game standard)
 
 v2.0.0 (2024-07-25)
-- Completely refactored the script for AutoHotkey v2.0
-- Implemented true Snap Tap behavior, prioritizing the last pressed key
+- Implemented Snap Tap behavior, prioritizing the last pressed key
 - Added support for both horizontal (A/D) and vertical (W/S) movement
 - Improved performance with various optimizations
 - Simplified logic using functions and maps for better maintainability
