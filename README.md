@@ -20,4 +20,4 @@ v2.0.0 (2024-07-25)
 
 v1.0.0 (Original Version)
 - Initial implementation of null movement script
-- Basic WASD key management to prevent opposing keys from canceling movement
+- WASD key management 
