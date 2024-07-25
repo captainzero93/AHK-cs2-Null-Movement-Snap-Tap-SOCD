@@ -1,7 +1,7 @@
 # Null Movement Script for AutoHotkey v2 ( CS2 )
 First code credit to Qiasfah on Github
 - An attempt to recreate some of the features built into the newer keyboards, no idea about how to try and do hardware level actuation and the rapid fire, I wouldnt even like to try to run a rapid fire script in any sort of VAC server just incase however if its a keyboard it's allowed... anyway;
-- 
+
 Changelog:
 v2.2.0 (2024-07-25)
 - Updated vertical SOCD handling for Counter-Strike: 
