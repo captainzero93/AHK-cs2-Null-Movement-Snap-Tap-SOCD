@@ -2,7 +2,7 @@
 First code credit to Qiasfah on Github
 - An attempt to recreate some of the features built into the newer keyboards, no idea about how to try and emulate hardware level actuation and the rapid fire, I wouldnt even like to try to run a rapid fire script in any sort of VAC server just incase however if its a keyboard it's allowed... anyway; I did also write a script that would stop stepping forward instantly when left click was pressed but honestly that's just striaght up a cheat and I wouldn't be suprised to see it in a keyboard soon. Especially if Razr for instance created a keyboard with a mouse that can pair to it with USB, what point will Valve address hardware automation?
 
-Update: Beta changes to avoid movement being stuck, thank you for the error report. 
+Update: Beta changes reverted due to unexpected behavour, it may sometimes get stuck holing a direction key... I might fix this in the future
 
 Changelog:
 v2.2.0 (2024-07-25)
