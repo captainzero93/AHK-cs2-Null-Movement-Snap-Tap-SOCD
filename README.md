@@ -9,8 +9,8 @@ This script implements advanced movement techniques for Counter-Strike 2 (CS2) u
 - **Snap Tap Mode**: Prioritizes the last pressed key for instant direction changes.
 - **SOCD (Simultaneous Opposite Cardinal Direction) Handling**: Prevents unintended movement cancellation when pressing opposing keys.
 - **Configurable SOCD Cleaning**: Options for horizontal (Left+Right) movement handling.
-- **Game-Specific Vertical SOCD**: Tailored for Counter-Strike style movement.
-- **Performance Optimizations**: Ensures smooth script execution.
+- **Game-Specific Vertical SOCD**: Set for Counter-Strike style movement.
+- **Performance Optimizations**: Code has been worked on to keep it as snappy as possible.
 
 ## Key Benefit:
 Your character will no longer stop moving in the heat of battle when two opposing directional keys are pressed. Instead, you can now change directions instantly without having to release the previous key.
