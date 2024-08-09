@@ -13,7 +13,7 @@ This script implements advanced movement techniques for Counter-Strike 2 (CS2) u
 - **Performance Optimizations**: Code has been worked on to keep it as snappy as possible.
 
 ## Key Benefit:
-Your character will no longer stop moving in the heat of battle when two opposing directional keys are pressed. Instead, you can now change directions instantly without having to release the previous key.
+Your character will no longer stop moving when two opposing directional keys are pressed. Instead, you can now change directions instantly without having to release the previous key.
 
 ## Changelog
 ### v2.2.0 (2024-07-25)
