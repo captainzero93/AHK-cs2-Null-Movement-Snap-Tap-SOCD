@@ -12,7 +12,7 @@ This script implements advanced movement techniques for Counter-Strike 2 (CS2) u
 - **Game-Specific Vertical SOCD**: Tailored for Counter-Strike style movement.
 - **Performance Optimizations**: Ensures smooth script execution.
 
-## Key Benefit
+## Key Benefit:
 Your character will no longer stop moving in the heat of battle when two opposing directional keys are pressed. Instead, you can now change directions instantly without having to release the previous key.
 
 ## Changelog
