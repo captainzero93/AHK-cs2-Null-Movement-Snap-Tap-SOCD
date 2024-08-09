@@ -1,4 +1,4 @@
-# Null Movement Script for AutoHotkey v2 (CS2)
+# Null Movement, "Snap Tap" SOCD Script (CS2) (AHK) (EXE) 
 
 Edit: A self contained compiled .exe is now in the release section! Now AHK2 doesnt need to be installed.
 
