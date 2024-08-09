@@ -1,6 +1,6 @@
 # Null Movement, "Snap Tap" SOCD Script (CS2) (AHK2) (EXE) 
 
-Edit: A self contained compiled .exe is now in the release section! Now AHK2 doesnt need to be installed.
+Edit: A self contained compiled portable .exe is now in the release section! Now AHK2 doesnt need to be installed.
 
 ## Overview
 This script implements advanced movement techniques for Counter-Strike 2 (CS2) using AutoHotkey v2. It provides features similar to those found in newer gaming keyboards, enhancing movement fluidity and responsiveness.
