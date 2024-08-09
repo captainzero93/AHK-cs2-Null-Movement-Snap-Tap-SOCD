@@ -1,6 +1,6 @@
 # Null Movement Script for AutoHotkey v2 (CS2)
 
-Edit: I will shortly provide a stand alone EXE so the instlal of AHK2 won't be required
+Edit: I will shortly provide a stand alone EXE so the install of AHK2 won't be required
 
 ## Overview
 This script implements advanced movement techniques for Counter-Strike 2 (CS2) using AutoHotkey v2. It provides features similar to those found in newer gaming keyboards, enhancing movement fluidity and responsiveness.
