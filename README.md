@@ -3,9 +3,6 @@
 Edit: A self contained compiled portable .exe is now in the release section! Now AHK2 doesnt need to be installed.
 Pretext: I do not cheat but I made this to practice programming and level the playing field for people who cant afford the new keyboards.
 
-## Overview
-This script implements advanced movement techniques for Counter-Strike 2 (CS2) using AutoHotkey v2. It provides features similar to those found in newer gaming keyboards, enhancing movement fluidity and responsiveness.
-
 ## Features
 - **Snap Tap Mode**: Prioritizes the last pressed key for instant direction changes.
 - **SOCD (Simultaneous Opposite Cardinal Direction) Handling**: Prevents unintended movement cancellation when pressing opposing keys.
