@@ -39,7 +39,7 @@ Use the EXE from the release section or;
 3. Save the script to a location on your computer where you can easily access it.
 
 ## Usage
-1. Double-click the `CSNullInput.ahk` file to run the script.
+1. Double-click the `CSNullInput.ahk` file to run the script ( or compiled .exe ).
 2. The script will run in the background, affecting your WASD key inputs in Counter-Strike 2.
 3. To stop the script, right-click the AutoHotkey icon in your system tray and select "Exit".
 
