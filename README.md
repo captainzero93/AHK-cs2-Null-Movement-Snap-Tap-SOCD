@@ -10,9 +10,6 @@ Pretext: I do not cheat but I made this to practice programming and level the pl
 - **Game-Specific Vertical SOCD**: Set for Counter-Strike style movement. 
 - **Performance Optimizations**: Code has been worked on to keep it as snappy as possible.
 
-## What is the main point?
-Your character will no longer stop moving when two opposing directional keys are pressed. Instead, you can now change directions instantly without having to release the previous key.
-
 ## Changelog
 ### v2.2.0 (2024-07-25)
 - Updated vertical SOCD handling for Counter-Strike
