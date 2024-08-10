@@ -32,6 +32,8 @@ Pretext: I do not cheat but I made this to practice programming and level the pl
 - Basic WASD key management
 
 ## Installation
+Use the EXE from the release section or; 
+
 1. Ensure you have AutoHotkey v2.0 or later installed on your system. You can download it from the [official AutoHotkey website](https://www.autohotkey.com/).
 2. Download the `CSNullInput.ahk` script from this repository.
 3. Save the script to a location on your computer where you can easily access it.
