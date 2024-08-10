@@ -74,13 +74,9 @@ Contributions to improve the script are welcome. Submit a pull request with a de
 Please ensure your code adheres to the existing style and includes appropriate comments. Also, update the README if your changes add or modify functionality.
 
 ## License
-This project is licensed under the MIT License. This means:
+This project is licensed under the MIT License.
 
-- You can freely use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software.
-- The software is provided "as is", without warranty of any kind.
-- The authors or copyright holders are not liable for any claims, damages, or other liability arising from the use of the software.
-
-For the full license text, please see the [LICENSE](LICENSE) file in the repository.
+- For the full license text, please see the [LICENSE](LICENSE) file in the repository.
 
 ## Support
 If you encounter any issues or have questions about the script, please open an issue on the GitHub repository. While I'll do my best to address concerns, please understand that this is a community project maintained in free time.
