@@ -79,6 +79,6 @@ This project is licensed under the MIT License.
 - For the full license text, please see the [LICENSE](LICENSE) file in the repository.
 
 ## Support
-If you encounter any issues or have questions about the script, please open an issue on the GitHub repository. While I'll do my best to address concerns, please understand that this is a community project maintained in free time.
+If you encounter any issues or have questions about the script, please open an issue. While I'll do my best to address concerns, please understand that this is a community project maintained in free time.
 
 Remember to use this script responsibly and in accordance with the terms of service of the games you play. Happy gaming!
