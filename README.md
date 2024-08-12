@@ -40,7 +40,7 @@ Pretext: I do not cheat but I made this to practice programming and level the pl
 
 ## Usage
 1. Double-click the `CSNullInput.ahk` file to run the script ( or compiled .exe ).
-2. The script will run in the background, affecting your WASD key inputs in Counter-Strike 2.
+2. The script will run in the background, affecting your WASD key inputs.
 3. To stop the script, right-click the AutoHotkey icon in your system tray and select "Exit".
 
 ## Configuration
