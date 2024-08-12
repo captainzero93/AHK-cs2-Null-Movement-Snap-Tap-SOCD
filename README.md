@@ -56,7 +56,7 @@ To change these settings:
 4. Save the file and restart the script for changes to take effect.
 
 ## Credits
-- Original "null bind" code credit to Qiasfah on Github
+- Original "null bind" AHK script credit to Qiasfah on Github, that provided the basis for everything else I added.
 
 ## Disclaimer
 This script is an attempt to recreate features built into newer keyboards. It does not implement hardware-level actuation or rapid fire functionality. The script is designed to work within the bounds of what's typically allowed by game anti-cheat systems, but use at your own risk.
