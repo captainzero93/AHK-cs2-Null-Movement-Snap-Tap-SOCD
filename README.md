@@ -63,7 +63,7 @@ This script is an attempt to recreate features built into newer keyboards. It do
 
 ## Note on Fair Play
 The maintainer acknowledges the ethical considerations of using such scripts:
-- A previous version included functionality to stop stepping forward instantly when left click was pressed, but this was removed as it was deemed too close to cheating.
+- A previous version included functionality to stop stepping forward instantly when left click was pressed, but this was removed as it was deemed too close to specificly known forms of cheating.
 - There are concerns about the future of hardware automation in competitive gaming, particularly if peripheral manufacturers create integrated keyboard-mouse systems.
 - The question of where Valve (and other game developers) will draw the line on hardware automation remains open.
 
