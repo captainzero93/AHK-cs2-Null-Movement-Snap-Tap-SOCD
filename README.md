@@ -1,3 +1,5 @@
+# This type of automated movement is now banned on FACEIT and Valve official servers and serves only as an archive.
+
 # Null Movement, "Snap Tap" SOCD Script (CS2) (AHK2) (EXE) 
 
 Edit: A self contained compiled portable .exe is now in the release section! Now AHK2 doesnt need to be installed.
